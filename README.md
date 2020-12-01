@@ -1,5 +1,5 @@
 # Group 35: Exowear
-## Cross Disciplinary Teamwork at the IT-University of Copenhagen
+## Cross Disciplinary Teamwork 2020 at the IT-University of Copenhagen
 
 The main repository and project site for group 35.
 
